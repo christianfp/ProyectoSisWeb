@@ -42,8 +42,8 @@
 		<input class="inputDatos" type="password" name="password" required="required">
 		<br/><br/>
 		<input type="submit" value="Login">
-		<h5><a href="../sisWebUnirTodo/index.php">IR A PAGINA PRINCIPAL SIN INICIAR SECION</a></h5><br><br>
-		<h3><a href="../CrearUsuarioSisWebFinal/?cargar=crear">Crear Usuario</a></h3>
+		<h5><a href="../sisWebUnirTodo/index.php">VOLVER A LA PAGINA PRINCIPAL</a></h5><br><br>
+		
 	</form>
 </body>
 </html>
